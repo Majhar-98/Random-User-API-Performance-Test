@@ -8,7 +8,7 @@
 ## Load Testing Strategy:
 In Load testing, I got actual tps when I hit the .https://random-data-api.com/api/v2/users server with 833 users in 300 second. The actual value is 2.7 which is close to expected value. Afterword, I hit the server with 3333 users in 1200 second then I found exactly 0.98 % error which close to 1 % error.
 
-
+![Uploading 1-Load Testing Strategy.jpg…]()
 
 
 ## Stress Testing Strategy:
