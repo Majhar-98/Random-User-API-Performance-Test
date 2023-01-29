@@ -8,15 +8,12 @@
 ## Load Testing Strategy:
 In Load testing, I got actual tps when I hit the .https://random-data-api.com/api/v2/users server with 833 users in 300 second. The actual value is 2.7 which is close to expected value. Afterword, I hit the server with 3333 users in 1200 second then I found exactly 0.98 % error which close to 1 % error.
    
-![Uploading image.png…]()
-![Uploading load1.PNG…]()
+
 
 ## Stress Testing Strategy:
 When, I hit the system with 20000 users in 18000 second then, I find out the bottleneck/stress test point which is exactly 1% error.
 
-![Uploading stress testing strategy.PNG…]()
 
 ## Report:
-![Uploading stress-2.PNG…]()
 
 
