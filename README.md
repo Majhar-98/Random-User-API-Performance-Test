@@ -11,7 +11,8 @@ In Load testing, I got actual tps when I hit the .https://random-data-api.com/ap
 ## Stress Testing Strategy:
 When, I hit the system with 20000 users in 18000 second then, I find out the bottleneck/stress test point which is exactly 1% error.
 
-## Report: Report file is available in github
+## Report: 
+Report file is available in github
 
 
 
