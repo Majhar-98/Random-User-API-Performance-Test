@@ -13,9 +13,6 @@ In Load testing, I got always actual tps when I hit the .https://random-data-api
 ## Stress Testing Strategy:
 When, I hit the system with 4200 users in 1200 second then, I find out the bottleneck/stress test point which is exactly 1% error.
 ![Stress](https://user-images.githubusercontent.com/123467715/215394905-b662a1b5-9680-422a-8948-ac30a1df6c9f.PNG)
-![stress-2](https://user-images.githubusercontent.com/123467715/215395588-f89aa8e2-6b95-4827-a628-1a8039324d93.jpg)
-
-
 
 
 ## Report: 
