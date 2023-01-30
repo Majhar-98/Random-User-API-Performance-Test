@@ -1,4 +1,10 @@
 # Random-User-API-Performance-Test
+## Purpose of Performance Testing:
+Features and Functionality supported by a software system are not the only concern. A software application’s performance, like its response time, reliability, resource usage, and scalability, do matter. The goal of Performance Testing is not to find bugs but to eliminate performance bottlenecks.
+
+
+
+
 ## Why Choose Apache JMeter for API Testing?
 
 1. Open-source tool - The Apache JMeter is an open-source tool based on Java used to perform load testing and performance testing.
