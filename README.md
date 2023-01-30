@@ -7,11 +7,13 @@
 
 ## Load Testing Strategy:
 In Load testing, I got always actual tps when I hit the .https://random-data-api.com/api/v2/users server with multiple users in severl times in every request. The actual value is 2.7 which is close to expected value. I did nit found any error when I hit the system.
+
 ![Load-1](https://user-images.githubusercontent.com/123467715/215394853-fedc6abe-2866-4f5c-b141-0dd2284c4738.PNG)
 ![load1](https://user-images.githubusercontent.com/123467715/215390403-c55a3f84-91a9-4e94-8100-88e2f11d6db1.jpg)
 
 ## Stress Testing Strategy:
 When, I hit the system with 4200 users in 1200 second then, I find out the bottleneck/stress test point which is exactly 1% error.
+
 ![Stress](https://user-images.githubusercontent.com/123467715/215394905-b662a1b5-9680-422a-8948-ac30a1df6c9f.PNG)
 
 
