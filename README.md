@@ -19,10 +19,6 @@ When, I hit the system with 4200 users in 1200 second then, I find out the bottl
 
 ![Stress](https://user-images.githubusercontent.com/123467715/215394905-b662a1b5-9680-422a-8948-ac30a1df6c9f.PNG)
 
-## Report: 
-Report file is available in repository. Please check it.
-![Report](https://user-images.githubusercontent.com/123467715/215391288-6019ddfa-13d1-4c84-b507-c9c169105959.jpg)
-
 ## Solving Following Questions:
 Find out the actual TPS for if 120000 user can give load for 12 hour
 Perform load test on this URL: https://random-data-api.com/api/v2/users
