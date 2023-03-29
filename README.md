@@ -9,7 +9,7 @@ Features and Functionality supported by a software system are not the only conce
 - Smooth API Testing - API Testing enables easy, smooth, and rapid API testing.
 
 ## Load Testing Strategy:
-In Load testing, I got always actual tps when I hit this https://random-data-api.com/api/v2/users server with multiple users several times in every request. The actual value is 2.7 which is close to the expected value. I did not find any error when I hit the system.
+In load testing, I always got actual tps when I hit this https://random-data-api.com/api/v2/users server with multiple users several times in every request. The actual value is 2.7, which is close to the expected value. I did not find any errors when I hit the system.
 
 ![Load-1](https://user-images.githubusercontent.com/123467715/215416500-e7e9be3b-986e-493a-908c-f5d107b1feb2.PNG)
 ![load1](https://user-images.githubusercontent.com/123467715/215390403-c55a3f84-91a9-4e94-8100-88e2f11d6db1.jpg)
